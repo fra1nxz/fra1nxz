@@ -18,6 +18,10 @@
 
 [AnimeHub](https://github.com/fra1nxz/AnimeHub)
 
+Demo
+
+[Открыть AnimeHub](https://anime-hub-three-smoky.vercel.app)
+
 Веб-приложение для поиска и просмотра аниме.
 - React, TypeScript, Vite
 - REST API
