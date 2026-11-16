@@ -1,16 +1,33 @@
-## Hi there 👋
+Привет! Я начинающий Frontend Developer 👋
 
-<!--
-**fra1nxz/fra1nxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю Frontend-разработку и создаю веб-приложения с использованием React и TypeScript.
 
-Here are some ideas to get you started:
+Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Redux Toolkit
+- HTML5 / CSS3
+- REST API
+- React Router
+- Git / GitHub
+- Vite
+
+Мои проекты
+
+[AnimeHub](https://github.com/fra1nxz/AnimeHub)
+
+Веб-приложение для поиска и просмотра аниме.
+- React, TypeScript, Vite
+- REST API
+- Поиск и фильтрация
+- Избранное и LocalStorage
+
+[React Redux Todo](https://github.com/fra1nxz/react-redux-todo)
+
+Учебный проект для практики React, TypeScript и Redux Toolkit.
+
+ Контакты
+
+- GitHub: [@fra1nxz](https://github.com/fra1nxz)
